@@ -10,8 +10,8 @@ export default function LandingPage() {
           Pixel Art Transformer
         </h1>
         <p className="text-xl mb-8 text-gray-600">
-          Transform your images into stunning pixel art with our AI-powered tool. Apply effects, generate color
-          palettes, and create unique designs with ease.
+          Transform your images into stunning pixel art. Apply effects, generate color palettes, and create unique
+          designs with ease.
         </p>
         <div className="flex justify-center gap-4">
           <Button
@@ -22,7 +22,7 @@ export default function LandingPage() {
             <Link href="/transform">Get Started</Link>
           </Button>
           <Button variant="outline" size="lg" asChild>
-            <a href="https://github.com/yourusername/pixel-art-transformer" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Mohiit70/pixel-art" target="_blank" rel="noopener noreferrer">
               <Github className="mr-2 h-4 w-4" />
               View on GitHub
             </a>
@@ -31,8 +31,8 @@ export default function LandingPage() {
       </div>
       <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl w-full">
         <FeatureCard
-          title="AI-Powered Transformations"
-          description="Leverage cutting-edge AI to enhance your pixel art creations."
+          title="Pixel Perfect Transformation"
+          description="Convert your images into beautiful pixel art with customizable settings."
         />
         <FeatureCard
           title="Smart Color Palettes"

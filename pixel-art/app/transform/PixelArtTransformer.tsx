@@ -1,12 +1,12 @@
 "use client"
 
 import { useState } from "react"
-import { ImageUploader } from "./ImageUploader"
-import { PixelArtCanvas } from "./PixelArtCanvas"
-import { ColorPalette } from "./ColorPalette"
-import { EffectsLibrary } from "./EffectsLibrary"
-import { ExportOptions } from "./ExportOptions"
-import { TextOverlay } from "./TextOverlay"
+import { ImageUploader } from "@/components/ImageUploader"
+import { PixelArtCanvas } from "@/components/PixelArtCanvas"
+import { ColorPalette } from "@/components/ColorPalette"
+import { EffectsLibrary } from "@/components/EffectsLibrary"
+import { ExportOptions } from "@/components/ExportOptions"
+import { TextOverlay } from "@/components/TextOverlay"
 import { Button } from "@/components/ui/button"
 import { Github } from "lucide-react"
 
@@ -22,7 +22,7 @@ export default function PixelArtTransformer() {
         <header className="flex justify-between items-center mb-8">
           <h1 className="text-4xl font-bold text-indigo-900">Pixel Art Transformer</h1>
           <Button variant="outline" size="icon" asChild>
-            <a href="https://github.com/yourusername/pixel-art-transformer" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Mohiit70/pixel-art" target="_blank" rel="noopener noreferrer">
               <Github className="h-6 w-6" />
             </a>
           </Button>
