@@ -23,13 +23,20 @@ Add customizable text to your pixel art to create stunning designs or captions.
 
 ---
 
-### **Screenshots**  
-| **Feature**            | **Preview**                                       |
-|-------------------------|---------------------------------------------------|
-| Image Upload & Pixelation | ![Upload Screenshot](screenshots/upload.png)      |
-| Effects Library         | ![Effects Screenshot](screenshots/effects.png)   |
-| Color Palette           | ![Palette Screenshot](screenshots/palette.png)   |
-| Export Options          | ![Export Screenshot](screenshots/export.png)     |
+## 📱 Screenshots
+
+![Main Interface](https://raw.githubusercontent.com/Mohiit70/pixel-art/1c457624e5f0a444863f1e0c630a8313a436a854/pixel-art/app/screenshot/Screenshot%202025-01-20%20131653.png)
+
+### Upload & Transform  
+![Upload Interface](https://raw.githubusercontent.com/Mohiit70/pixel-art/1c457624e5f0a444863f1e0c630a8313a436a854/pixel-art/app/screenshot/Screenshot%202025-01-20%20131707.png)
+
+### Effects Library  
+![Effects Interface](https://raw.githubusercontent.com/Mohiit70/pixel-art/1c457624e5f0a444863f1e0c630a8313a436a854/pixel-art/app/screenshot/Screenshot%202025-01-20%20131734.png)
+
+### Color Palette & Export  
+![Export Interface](https://raw.githubusercontent.com/Mohiit70/pixel-art/1c457624e5f0a444863f1e0c630a8313a436a854/pixel-art/app/screenshot/Screenshot%202025-01-20%20131800.png)
+
+---
 
 ### **YouTube Video Demo**  
 🎥 Check out the full walkthrough of the app: [Pixel Art Demo](https://www.youtube.com/watch?v=example)  
@@ -88,10 +95,10 @@ Contributions are welcome! If you find any issues or have suggestions for new fe
 - Open an issue  
 - Submit a pull request  
 
-Please ensure your code follows the project's coding standards.
-
 ---
 
 ## **License**
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
